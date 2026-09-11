@@ -1,6 +1,6 @@
 # Object-Detection-using-TensorFlow-Cats-vs-Dogs-
 
-<video src="https://raw.githubusercontent.com/pkhaliada-rgb/Object-Detection-using-TensorFlow-Cats-vs-Dogs-/main/Object%20Detection%20using%20TensorFlow%20(Cats%20vs%20Dogs).webm" width="100%" controls autoplay loop muted></video>
+[<video src="https://raw.githubusercontent.com/pkhaliada-rgb/Object-Detection-using-TensorFlow-Cats-vs-Dogs-/main/Object%20Detection%20using%20TensorFlow%20(Cats%20vs%20Dogs).webm" width="100%" controls autoplay loop muted></video>](https://github.com/user-attachments/assets/f50fa082-5c5b-4b65-a13d-97b8f13237c8)
 
 A single Jupyter notebook that builds a complete cat/dog detection pipeline from scratch, then wraps it in a live web dashboard — all in one file.
 
